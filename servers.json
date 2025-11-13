@@ -1,41 +1,35 @@
-{
+[
+  {
     "id": "533b6fb8-c92a-4034-bd5e-1b3970cdc1ab",
     "name": "ella's flower petals🌸",
     "icon": "https://cdn.discordapp.com/icons/648993096595537940/a_0d60c093094f61d2adea0aeb1e6dd6b2.png?size=512",
     "banner": "https://cdn.discordapp.com/banners/648993096595537940/48687c33eb51a3eb5b0aa2a922bb5e82.png?size=1024",
     "categories": [
-        {
-            "id": "b2194f39-d87d-4174-bb38-0bf0b3a4e236",
-            "channels": [
-                {
-                    "id": "c9f1cac1-3fca-41bb-9ada-fa455458f39a",
-                    "name": "『🌸』new·petals",
-                    "messages": [
-
-                    ]
-                },
-                {
-                    "id": "6e4c9864-5a1c-4b1c-8678-c7cb76535c4d",
-                    "name": "⭐┆rules",
-                    "messages": [
-
-                    ]
-                },
-                {
-                    "id": "f54b61f8-4593-4cd3-a460-9ae90273b91f",
-                    "name": "⭐┆rules",
-                    "messages": [
-
-                    ]
-                },
-                {
-                    "id": "918da1b6-2343-4f9e-9ab4-2c7c76fb861b",
-                    "name": "🌺┆introductions",
-                    "messages": [
-
-                    ]
-                }
-            ]
-        }
+      {
+        "id": "b2194f39-d87d-4174-bb38-0bf0b3a4e236",
+        "channels": [
+          {
+            "id": "c9f1cac1-3fca-41bb-9ada-fa455458f39a",
+            "name": "『🌸』new·petals",
+            "messages": []
+          },
+          {
+            "id": "6e4c9864-5a1c-4b1c-8678-c7cb76535c4d",
+            "name": "⭐┆rules",
+            "messages": []
+          },
+          {
+            "id": "f54b61f8-4593-4cd3-a460-9ae90273b91f",
+            "name": "⭐┆rules",
+            "messages": []
+          },
+          {
+            "id": "918da1b6-2343-4f9e-9ab4-2c7c76fb861b",
+            "name": "🌺┆introductions",
+            "messages": []
+          }
+        ]
+      }
     ]
-}
+  }
+]
