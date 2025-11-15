@@ -66,6 +66,52 @@
             "messages": []
           }
         ]
+      },
+      {
+        "id": "64ac45ef-123f-4782-8ec2-f2a32a08239b",
+        "name": "━━ nekoella zone ♡ˊˎ-",
+        "channels": [
+          {
+            "id": "dcc23cf5-1316-431d-8c81-15c12505868e",
+            "name": "🌷┆ella·life",
+            "messages": []
+          },
+          {
+            "id": "2a947749-d01e-4610-8755-30dc6ab41ca1",
+            "name": "💖┆messages·for·ella",
+            "messages": []
+          },
+          {
+            "id": "b5d5d4a8-254d-4d0a-a309-759e2f8780c6",
+            "name": "🎁┆nekoella·merch",
+            "messages": []
+          },
+          {
+            "id": "7cf7d628-deb1-493d-a66c-8e1d35e61719",
+            "name": "💜┆nekoella·clips",
+            "messages": []
+          },
+          {
+            "id": "8666f311-c082-42e4-9154-aab7840d1c18",
+            "name": "✨┆ella·edits",
+            "messages": []
+          },
+          {
+            "id": "0ab85e1b-3047-49dc-9231-c118272b05c1",
+            "name": "🌺┆nekoella·fanart",
+            "messages": []
+          },
+          {
+            "id": "9e32ce5d-6ed8-48a5-8a94-2f3fba74675b",
+            "name": "💐┆petal·projects",
+            "messages": []
+          },
+          {
+            "id": "91f16be8-3d89-4397-9d3d-04d0cc16670b",
+            "name": "🌼┆petal-sonas",
+            "messages": []
+          }
+        ]
       }
     ]
   },
