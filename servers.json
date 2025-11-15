@@ -1,0 +1,84 @@
+[
+  {
+    "id": "533b6fb8-c92a-4034-bd5e-1b3970cdc1ab",
+    "name": "ella's flower petals🌸",
+    "icon": "https://cdn.discordapp.com/icons/648993096595537940/a_0d60c093094f61d2adea0aeb1e6dd6b2.png?size=512",
+    "banner": "https://cdn.discordapp.com/banners/648993096595537940/48687c33eb51a3eb5b0aa2a922bb5e82.png?size=1024",
+    "categories": [
+      {
+        "id": "b2194f39-d87d-4174-bb38-0bf0b3a4e236",
+        "channels": [
+          {
+            "id": "c9f1cac1-3fca-41bb-9ada-fa455458f39a",
+            "name": "『🌸』new·petals",
+            "messages": []
+          },
+          {
+            "id": "6e4c9864-5a1c-4b1c-8678-c7cb76535c4d",
+            "name": "⭐┆rules",
+            "messages": []
+          },
+          {
+            "id": "f54b61f8-4593-4cd3-a460-9ae90273b91f",
+            "name": "⭐┆rules",
+            "messages": []
+          },
+          {
+            "id": "918da1b6-2343-4f9e-9ab4-2c7c76fb861b",
+            "name": "🌺┆introductions",
+            "messages": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0cefa043-4429-48b3-a10f-dedc4119fa72",
+    "name": "Blush Cult",
+    "icon": "https://cdn.discordapp.com/icons/167091858412011520/a_5bad85c79e551c5a3a3284a6a7192c95.gif?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/167091858412011520/f16939c04c4e64317dca16f3687725d4.png?size=1024",
+    "categories": []
+  },
+  {
+    "id": "ed5cab78-5152-4176-9a2c-7c21ffd52f94",
+    "name": "Comfy Fox Den 🌸",
+    "icon": "https://cdn.discordapp.com/icons/674108408902713364/584870a4e5c1e54d9969bd65decd4cc9.png?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/674108408902713364/04a3bfe2b09bfed3d984d5bd3b975deb.png?size=1024",
+    "categories": []
+  },
+  {
+    "id": "46825e95-f57c-473c-81c7-9f4f3437e505",
+    "name": "- ̗̀ Comfy Fox Home  ̖́-",
+    "icon": "https://cdn.discordapp.com/icons/812878192465018891/4c0cae2e8612b4e1c6d09ddbe9e0d8e3.png?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/812878192465018891/a_3a0caf9c1763110191cb9ca84c3e3931.gif?size=1024&animated=true",
+    "categories": []
+  },
+  {
+    "id": "5164845e-e9ed-4ebe-ba7c-16a857430b6d",
+    "name": "Shylily's cave",
+    "icon": "https://cdn.discordapp.com/icons/752531306092429443/54dd4ca43277c8af332edce0a6f7fbed.png?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/752531306092429443/304536281cb2ff9389d07eac67d965ef.png?size=1024",
+    "categories": []
+  },
+  {
+    "id": "32cc5f93-e532-48ef-8b53-708922441293",
+    "name": "kumi's nest",
+    "icon": "https://cdn.discordapp.com/icons/1099722605486948362/4a86413fc811c4d2608dde000aeb1482.png?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/1099722605486948362/a_59ae7bbcd167838d3e6a17f6a6ce1f13.gif?size=1024&animated=true",
+    "categories": []
+  },
+  {
+    "id": "20c606e4-9c06-4a52-bf7e-33d62ed27ff5",
+    "name": "🌸 Silvervale's Petal Pals 🌸",
+    "icon": "https://cdn.discordapp.com/icons/548308500531511317/a_85f27f3c757a35b770815ac45ff56dba.gif?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/548308500531511317/a_587ca1715691dfce0a629407a84c71c9.gif?size=1024&animated=true",
+    "categories": []
+  },
+  {
+    "id": "9804e318-fde1-4860-9d86-c76d05e1afbb",
+    "name": "Gura's Gawrdians",
+    "icon": "https://cdn.discordapp.com/icons/753096184255479860/b572232ab4247c5633f746765e8631b5.png?size=1024",
+    "banner": "https://cdn.discordapp.com/banners/753096184255479860/a_a4b9a05f446a50fa5b902dc306b71840.gif?size=1024&animated=true",
+    "categories": []
+  }
+]
