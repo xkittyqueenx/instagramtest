@@ -40,6 +40,32 @@
             "messages": []
           }
         ]
+      },
+      {
+        "id": "a9f776e2-45fd-4740-8633-9e70383a1cde",
+        "name": "━━ announcements ♡ˊˎ-",
+        "channels": [
+          {
+            "id": "3a9ebb55-ac69-4c52-8588-d0573bd6d5b5",
+            "name": "💌┆social·notifs",
+            "messages": []
+          },
+          {
+            "id": "af982b61-bd59-48ae-a777-60ec89b0908e",
+            "name": "🌸┆comfy·announcements",
+            "messages": []
+          },
+          {
+            "id": "c5616713-ba2c-4a85-87ba-4c3e8cf655ce",
+            "name": "💜┆stream·updates",
+            "messages": []
+          },
+          {
+            "id": "ac380785-509b-43c1-80e7-2fc44a1fe26c",
+            "name": "📅┆stream·schedule",
+            "messages": []
+          }
+        ]
       }
     ]
   },
