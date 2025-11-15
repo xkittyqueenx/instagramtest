@@ -112,6 +112,47 @@
             "messages": []
           }
         ]
+      },
+      {
+        "id": "c5a0165b-0c01-4739-98e6-70e47642051f",
+        "name": "━━ comfy chats ♡ˊˎ-",
+        "channels": [
+          {
+            "id": "d039e2ba-7dac-465d-97a1-45dfdc0922d3",
+            "name": "⭐┆starboard",
+            "messages": []
+          },
+          {
+            "id": "840b0e10-7fde-4d5f-a7c3-382237614e08",
+            "name": "🍰┆birthdays",
+            "messages": []
+          },
+          {
+            "id": "43949a83-fc1a-494b-9f06-9773d32cf410",
+            "name": "💬┆general",
+            "messages": []
+          },
+          {
+            "id": "8acb2d0d-3b89-412e-ac65-8417cbc295b0",
+            "name": "💜┆stream·chat",
+            "messages": []
+          },
+          {
+            "id": "fa9573f4-44ac-4622-a776-a5e12c2a90a4",
+            "name": "🦊┆chat·with·lia",
+            "messages": []
+          },
+          {
+            "id": "cc777214-4e3c-46e8-979b-866f8c8e583e",
+            "name": "🏆┆levels·and·achievements",
+            "messages": []
+          },
+          {
+            "id": "7e40db8b-fa7d-409c-b817-faf7d8f2876f",
+            "name": "☕┆bot·commands",
+            "messages": []
+          }
+        ]
       }
     ]
   },
